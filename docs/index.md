@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "PS4 Linux Tutorial"
+  name: "PS4 Linux Tutorial, Based on Dionkill's shitty tutorial but better."
   text: "A simple guide on how to install Linux on PS4 systems"
   tagline: "by DionKill"
   image:
@@ -17,7 +17,7 @@ hero:
       link: https://www.youtube.com/watch?v=KW_lRyXQcb8
     - theme: alt
       text: 📖 Source on GitHub
-      link: https://github.com/DionKill/ps4-linux-tutorial/
+      link: https://github.com/FlyingPhantom/ps4-linux-tutorial
 
 features:
   - icon: 🧹
@@ -51,8 +51,8 @@ TLDR: yes it is reversible, and no you won't loose any data.
 	- 8 cores, x86-64 CPU @1.6GHz (Phat and Slim) or @2.1GHz (Pro) based on the Jaguar architecture
 		- In theory, it's two Athlon 5150s duct taped together
 		- Performance similar to an i3-2120 in multicore, or a Pentium 4 in single core
-	- AMD "Liverpool" (Phat/Slim) or "Gladius" (Pro) GPU
-		- Performance is comparable to an AMD HD 7850 or a Nvdia GTX 750 Ti on the Phat/Slim
+	- AMD "Liverpool" (Fat/Slim) or "Gladius" (Pro) GPU
+		- Performance is comparable to an AMD HD 7850 or a Nvdia GTX 750 Ti on the Fat/Slim
 		- For the Pro, we don't really know. Roughly a GTX 1060
 - 8GB of GDDR5 memory
   - Note the G, stands for Graphics. This isn't DDR5 as it wasn't invented in 2013. DDR3 was the only one available.
