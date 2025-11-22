@@ -48,7 +48,7 @@ TLDR: yes it is reversible, and no you won't loose any data.
 
 ::: details What are the PS4's specifications?
 - AMD APU
-	- 8 cores, x86-64 CPU @1.6GHz (Phat and Slim) or @2.1GHz (Pro) based on the Jaguar architecture
+	- 8 cores, x86-64 CPU @1.6GHz (Fat and Slim) or @2.1GHz (Pro) based on the Jaguar architecture
 		- In theory, it's two Athlon 5150s duct taped together
 		- Performance similar to an i3-2120 in multicore, or a Pentium 4 in single core
 	- AMD "Liverpool" (Fat/Slim) or "Gladius" (Pro) GPU
@@ -56,7 +56,7 @@ TLDR: yes it is reversible, and no you won't loose any data.
 		- For the Pro, we don't really know. Roughly a GTX 1060
 - 8GB of GDDR5 memory
   - Note the G, stands for Graphics. This isn't DDR5 as it wasn't invented in 2013. DDR3 was the only one available.
-  - Additional 256MB DDR3 for "Background applications" on Phat/Slim, or 1GB DDR3 on Pro
+  - Additional 256MB DDR3 for "Background applications" on Fat/Slim, or 1GB DDR3 on Pro
 :::
 
 ::: details What do these specs mean in practice?

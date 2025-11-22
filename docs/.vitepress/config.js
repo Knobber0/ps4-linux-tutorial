@@ -20,14 +20,14 @@ export default defineConfig({
     ['meta', { property: 'og:title', content: 'PS4 Linux Tutorial' }],
     ['meta', { property: 'og:description', content: 'Learn how to run Linux on your PlayStation 4 with this modern and simple guide. We will go over how to setup, download kernel and distro, install, boot, customize and optimize your installation to your liking, and also fix any issues that may occur.' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://dionkill.github.io/ps4-linux-tutorial/' }],
-    ['meta', { property: 'og:image', content: 'https://dionkill.github.io/ps4-linux-tutorial/preview.png' }],
+    ['meta', { property: 'og:url', content: 'https://flyingphantom.github.io/ps4-linux-tutorial/' }],
+    ['meta', { property: 'og:image', content: 'https://flyingphantom.github.io/ps4-linux-tutorial/preview.png' }],
 
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'PS4 Linux Tutorial' }],
     ['meta', { name: 'twitter:description', content: 'Step-by-step guide for running Linux on PS4.' }],
-    ['meta', { name: 'twitter:image', content: 'https://dionkill.github.io/ps4-linux-tutorial/preview.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://flyingphatnom.github.io/ps4-linux-tutorial/preview.png' }],
   ],
 
   themeConfig: {
@@ -102,7 +102,7 @@ export default defineConfig({
     // Custom added stuff
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/DionKill/ps4-linux-tutorial/' }
+      { icon: 'github', link: 'https://github.com/FlyingPhantom/ps4-linux-tutorial/' }
     ],
 
     search: {
@@ -110,8 +110,8 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Released under the <a href="https://github.com/DionKill/ps4-linux-tutorial/blob/main/LICENSE">MIT License</a>.',
-      copyright: 'Copyright © 2025 <a href="https://github.com/dionkill">Diego Pireddu</a>.'
+      message: 'Released under the <a href="https://github.com/FlyingPhantom/ps4-linux-tutorial/blob/main/LICENSE">MIT License</a>.',
+      copyright: 'Copyright © 2025 <a href="https://github.com/FlyingPhantom">Yes</a>.'
     },
 
     lastUpdated: {

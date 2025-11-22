@@ -1,4 +1,4 @@
----
+--
 next:
   text: 'Choose an Installation Method!'
   link: 'installation#choosing-a-method-of-installation'
@@ -29,7 +29,7 @@ Therefore, let's clear some misinformation here:
 - The PS4 internal drive uses UFS encryption so it slows down significantly.
 - You CAN clone your PS4 HDD into an SSD, if internal installation is a must for you
 - The PS4 doesn't support TRIM, so a possible internal SSD swap would be a lot slower in writing data (a cached SSD with a garbage collector would be a bit better though, so don't worry)
-- PS4 Phat and Slim are limited to SATA-II, which is 3Gbps in speed (roughly 375MB/s), which people online say it's not enough (it's enough for a PS4). On the other hand, the PS4 Pro runs at SATA-III, which is 6Gbps (up to 750MB/s), so that can saturate every SATA SSD on the market.
+- PS4 Fat and Slim are limited to SATA-II, which is 3Gbps in speed (roughly 375MB/s), which people online say it's not enough (it's enough for a PS4). On the other hand, the PS4 Pro runs at SATA-III, which is 6Gbps (up to 750MB/s), so that can saturate every SATA SSD on the market.
 	- External SSD, on my 500GB Samsung 870 EVO, is 350MB/s-ish. So you'd get the same performance as an internal drive (theoretically)
 
 Again, internal SSD swap hasn't been tested, so your mileage may vary if you wanna go that route. If you have info on that, let me know.

@@ -6,7 +6,7 @@ We need to clear any confusion for people that are new to this stuff. The PS4 is
 ## Revisions
 
 The PS4 family of consoles has had 3 revsions in total:
-### Phat/Fat
+### Fat/Fat
 - CUH-1000, CUH-1100 and CUH-1200 series
 <img src="/fat.png" width="50%">
 
@@ -23,12 +23,12 @@ The PS4 family is also divided into 3 major Southbridges:
 ### Aeolia
 The oldest and very supported for Linux, but is known to have some Wi-Fi or Bluetooth chips that may not work with some kernels.
 
-It's only present on early Phat models.
+It's only present on early Fat models.
 
 ### Belize
 The second gen Southbridge, and the one with the most support. Gets kernel updates faster and doesn't have any particular problems.
 
-It can be found on late Phat models, but also on Slims and Pros.
+It can be found on late Fat models, but also on Slims and Pros.
 
 ### Baikal
 The third and final Southbridge, released very late into the console's lifespan, and the one with the least support. It doesn't have support for internal HDD installation, and is known to have issues, especially on PS4 Pros, but you may be able to get a working system.
