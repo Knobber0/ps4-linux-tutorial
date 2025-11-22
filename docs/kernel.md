@@ -44,6 +44,8 @@ This page contains content on how to compile your own kernel.
 
 - Open the config file and change "_git_mirror=" to "_git_mirror="https://github.com/feeRnt/ps4-linux-12xx.git"
 
+> **NOTE: this kernel is only aoelia-belize go to his repo to find kernels for baikal.**
+
 - This will clone the 6.15.4 crashniels kernel wen you select it.
 
 - Example with images will be provided here.
@@ -63,3 +65,12 @@ This page contains content on how to compile your own kernel.
 - **NOTE: This is only for arch because its the distro i use i dont know for other distros but you will have to modify ./install.sh script if you dont use arch**.
 
 - You can download the follow modded PKGBUILD file from this link [here](https://github.com/FlyingPhantom/ps4-linux-tutorial/blob/main/PS4%20Linux/PKGBUILD).
+
+
+## Step 4 - Recommended settings.
+
+- Config for linux-tkg.cfg will be provided [here](). I will call this the recommended config because it has been tuned for the ps4 and minimizing compile time. If you wanna lower the compile times even more check out [modprobed-db](https://wiki.archlinux.org/title/Modprobed-db) on archwiki.
+
+- The config will be used automatically if you followed up the Step 1 of the guide.
+
+
