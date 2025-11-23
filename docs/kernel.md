@@ -62,7 +62,7 @@ This page contains content on how to compile your own kernel.
 
 >- This is only for arch because its the distro i use i dont know for other distros but you will have to modify ./install.sh script if you dont use arch.
 
->- You can download the follow modded PKGBUILD file from this link [here](https://github.com/FlyingPhantom/ps4-linux-tutorial/blob/main/PS4%20Linux/PKGBU>>ILD).
+>- You can download the follow modded PKGBUILD file from this link [here](https://github.com/FlyingPhantom/ps4-linux-tutorial/blob/main/PS4%20Linux/PKGBUILD).
 
 
 ## Step 4 - Recommended settings.
