@@ -1,4 +1,4 @@
---
+---
 next:
   text: 'Choose an Installation Method!'
   link: 'installation#choosing-a-method-of-installation'
@@ -6,11 +6,6 @@ next:
 
 
 # Let'sa install!
-Installing Linux on the PS4 is surprisingly easy, and it helps you free your mind from the hardships of everyday life.
-
-Just kidding, it's fucking terrible.
-
-But don't worry, cuz I've suffered before you (and still am by writing this absolute monstrosity of a guide) so that the only thing you have to do is follow my guide as I spoonfeed you with information.
 
 > [!TIP]
 > TL;DR:

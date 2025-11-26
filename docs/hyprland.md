@@ -8,3 +8,4 @@
 | decoration:blur:enabled = false 		       | Disables blur				     	      |
 | decoration:shadow:enabled = false		       | Disables shadows		                      |
 | misc:vfr = true 				       | Will lower amount of frames sent wen nothing happens |
+| AQ_NO_MODIFIERS=1                                    | Disables modifiers for DRM buffers.		      |

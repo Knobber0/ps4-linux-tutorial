@@ -122,9 +122,6 @@ sudo passwd
 ```
 And setting a new password.
 
-## Download more RAM?!
-No, seriously, we can do such a thing. To do that, we must use Swap and ZRAM.
-
 ::: details Enabling Swap
 > [!CAUTION]
 > It's **ABSOLUTELY NOT** recommended to use the internal HDD as swap **ONLY** use this if your internal HDD has been replaced with a faster SSD. Disable it and move on otherwise.
