@@ -1,4 +1,4 @@
-# Overview of revisions and southbridges
+Overview of revisions and southbridges
 We need to clear any confusion for people that are new to this stuff. The PS4 is a relatively quirky console and it can get pretty confusing with the myriad of models there are.
 
 > [!TIP]
@@ -38,30 +38,3 @@ The third and final Southbridge, released very late into the console's lifespan,
 > 1. Belize
 > 2. Aeolia
 > 3. Baikal
-## Other terms
-::: details Linux terms
-To be fair, it is expected that you already know some of these, but if not, at least you'll learn something today.
-- Root folder or `/` is the the the first folder of the entire OS. It contains all the folders of the system. 
-	- `root` is also the user that has access to the entire system.
-- Distros or distributions, are operating systems that include the Linux kernel as a common base.
-- Mesa: not the biome in Minecraft, but the Mesa Graphics Library. It's essentially a part of the graphics drivers and are necessary for graphics to work properly
-
-:::
-::: details PC terms
-You are also supposed to know what all of these mean, but if not, here's an extremely quick rundown:
-- OS: operating system
-- CPU: the processor or "brain" of the computer
-- GPU: the graphics processor, which handles... graphics
-- RAM: the memory of the system, resets when the system is powered off and it's the location on which apps are moved when open
-- Storage: the space where you install the OS and apps
-- HDD: Hard Disk Drive, it's a type of storage based on a spinning metal disc. Very slow for our purposes.
-- SSD: Solid State Drive, it's a type of storage that uses electricity instead of mechanical parts. Much faster than an HDD.
-
-:::
-::: details Other other terms
-For all the other terms that didn't fit anywhere else:
-- PS4: pfft are you serious?
-
-:::
-## To the setup
-Now you've finally become the most powerful human in the world with all these achronyms! You should totally go to the next step, where you'll set up the console and PC to start the installation!

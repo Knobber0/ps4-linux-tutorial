@@ -2,10 +2,9 @@
 In order to install Linux on the PS4, a lot of things are needed. You may have to buy some gear to make this work.
 ## Requirements
 
-In a nutshell, you'll need:
-- A PS4 (duh)
-	- Extra mouse and keyboard
-	- A USB hub to connect all the peripherals is recommended
+You'll need:
+- Extra mouse and keyboard
+- A USB hub to connect all the peripherals is recommended
 - A computer
 - An internet connection
 - (Optional) - one or more USB drives
@@ -13,13 +12,12 @@ In a nutshell, you'll need:
 
 ## Storage devices to install to
 Before we talk about anything, you must choose now a method of installation.
-You will need a device to store Linux, obviously.
 1. Internal HDD
 	- Baikal still unsupported, veeery slow, needs free space
 2. External HDD/SSD
     - External USB Hard Disk Drive or USB Solid State Drive. Use a USB 3.x capable disk and cable for the best performance
 	- External SATA-USB or NVMe-USB adapter (if using a SATA/NVMe drive)
-	- You can use a pendrive, nobody's stopping you, but it's gonna be painful
+	- You can use a pendrive, but i highly advise **NOT** to because of the slow speeds.
 
 ## PS4 system
 Some configuration is necessary on the PS4's side before we load Linux.
@@ -37,7 +35,7 @@ In the example case, the latest version of GoldHEN is used (minimum for this gui
 You need a system that is already jailbroken and has a homebrew enabler (such as GoldHEN or ps4hen) running.
 
 > [!TIP]
-> To jailbreak your PS4, you need firmware 12.02 or lower.
+> To jailbreak your PS4, you need firmware 12.52 or lower.(In future likely 13.02 or less)
 > 
 > Refer to [Modded Warfare](https://www.youtube.com/@MODDEDWARFARE) on YouTube if you haven't already.
 
@@ -75,8 +73,6 @@ However, as some issues may arise on certain consoles, you should still go and t
 <img src="/screenshots/settings-system.png" width="75%">
 <img src="/screenshots/hdcp-and-device-link.png" width="75%">
 
-- ~~Disable "HDCP" and "HDMI device link"~~
-	- This is just not true anymore. Also, it must be on for the BD-JB exploit to work.
 - Check your internet connection
 	- Some models have issues if they aren't already connected to internet.
 	- Ethernet may not work on PS4 Pro Baikal
@@ -96,11 +92,10 @@ In order to do that, open up your FTP file manager of choice.
 - Filezilla
 
 #### Linux
-- Built in File explorer, if yours allows it (KDE, Gnome and Cinnamon should)
+- Built in File explorer, if yours allows it.
 - Filezilla
 
 #### MacOS
-- I'm not rich, you tell me
 - Probably Filezilla
 
 ### Necessary files

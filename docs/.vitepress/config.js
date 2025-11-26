@@ -96,7 +96,14 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Performance tweaks & optimization', link: '/performance' },
-	  { text: 'Hyprland', link: '/hyprland'}
+          { text: 'Hyprland', link: '/hyprland'}
+        ]
+      },
+      {
+        text: '🔧 Mesa',
+        collapsed: true,
+        items: [
+          { text: 'Mesa drivers & tweaks', link: '/mesa' }
         ]
       }
     ],
