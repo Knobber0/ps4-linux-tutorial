@@ -51,6 +51,13 @@
 
 		- [DWM](https://dwm.suckless.org/)
 
+		- [i3](https://i3wm.org/)
+
+		- [Openbox](http://openbox.org/)
+
+		- [bspwm](https://github.com/baskerville/bspwm)
+
+		- [Awesome](https://awesomewm.org/)
 
 	- ## Wayland based Window Managers:
 
@@ -59,3 +66,5 @@
 		- [Hyprland](https://hypr.land/)(Runs well on Pro models but not tested on non Pro models, use a lightweight config)
 
 		- [Swayfx](https://github.com/WillPower3309/swayfx)(Also not tested on non pro models, use a lightweight config)
+
+		- [Niri](https://yalter.github.io/niri/)(Also not tested on non pro model, use a lightweight config)
