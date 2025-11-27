@@ -33,8 +33,8 @@ export default defineConfig({
       {
         text: 'More stuff',
         items: [
-          { text: 'Post-install', link: '/postinstall' },
-          { text: 'Distro DIY', link: '/distrodiy' },
+          { text: 'Post-install', link: '/postinstallation/postinstall' },
+          { text: 'Distro DIY', link: '/postinstallation/distro' },
         ]
       },
     ],
