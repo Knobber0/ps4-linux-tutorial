@@ -48,7 +48,7 @@ export default defineConfig({
           { text: 'Revisions and Southbridges', link: '/revisions' },
           { text: 'Setup', link: '/setup' },
           { text: 'Files', link: '/files' },
-	  { text: 'Baikal', link: '/baikal'},
+          { text: 'Baikal', link: '/baikal'},
           {
             text: '💿 Choose your Install',
             collapsed: true,
@@ -95,14 +95,31 @@ export default defineConfig({
         text: '🚀 Performance',
         collapsed: true,
         items: [
-          { text: 'Performance tweaks & optimization', link: '/performance' },
-          { text: 'Hyprland', link: '/hyprland'},
-   	  { text: 'Sway', link: '/sway'},
-	  { text: 'Niri', link: '/niri'}
+          { text: 'General tweaks & optimization', link: '/performance' },
+          {
+            text: '🌊 Wayland Compositors',
+            collapsed: true,
+            items: [
+              { text: 'Hyprland', link: '/hyprland' },
+              { text: 'Sway',      link: '/sway' },
+              { text: 'Niri',      link: '/niri' }
+            ]
+          },
+          {
+            text: '🖼️ Xorg Window Managers',
+            collapsed: true,
+            items: [
+              { text: 'i3',        link: '/i3' },
+              { text: 'Openbox',   link: '/openbox' },
+              { text: 'bspwm',     link: '/bspwm' },
+              { text: 'dwm',        link: '/dwm' },
+              { text: 'Awesome',   link: '/awesome' }
+            ]
+          }
         ]
       },
       {
-        text: '💻 Mesa',
+        text: '🖥️ Mesa & Graphics',
         collapsed: true,
         items: [
           { text: 'Mesa drivers & tweaks', link: '/mesa' }
