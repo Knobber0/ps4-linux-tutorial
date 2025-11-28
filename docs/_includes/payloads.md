@@ -22,7 +22,7 @@ Do NOT use Pro payloads on non-Pro consoles.
 > You aren't creating memory out of thin air!
 
 ### Local payloads
-If you so desire, it's possible to load these payloads locally.
+It's also possible to load these payloads locally.
 
 In order to do that, go [download them from the ps4boot repositories](https://github.com/ps4boot/ps4-linux-payloads):
 - Install "Payload Loader" on your PS4 to load the payloads locally
