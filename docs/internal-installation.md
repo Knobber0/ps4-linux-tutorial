@@ -34,7 +34,7 @@ When installed, you can remove your Linux installation by removing the above fil
 <!--@include: ./_includes/payloads.md-->
 
 ## Installation commands
-Now that the storage is covered, here comes the moment of truth. You'll be sent to the Rescue Shell.
+Now that the storage is covered, you'll be sent to the Rescue Shell.
 
 > [!TIP]
 > If you get an error, go to the [Installation issues section](issues#installation-issues).
@@ -52,6 +52,3 @@ resume-boot
 ```
 
 <!--@include: ./_includes/resume-boot-warning.md-->
-
-## Finale
-Go now, conquer the finale. Also, watch the post-credit scenes.

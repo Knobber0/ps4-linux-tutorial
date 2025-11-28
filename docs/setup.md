@@ -11,13 +11,13 @@ You'll need:
 	- If you want to install to an external drive, you can use a USB pendrive or HDD, but it's recommend to have a SATA SSD and a SATA to USB adapter (preferrably one that supports UAS).
 
 ## Storage devices to install to
-Before we talk about anything, you must choose now a method of installation.
+Before starting, you need to choose method of installation.
 1. Internal HDD
-	- Baikal still unsupported, veeery slow, needs free space
+	- Baikal still unsupported, very slow, needs free space
 2. External HDD/SSD
     - External USB Hard Disk Drive or USB Solid State Drive. Use a USB 3.x capable disk and cable for the best performance
 	- External SATA-USB or NVMe-USB adapter (if using a SATA/NVMe drive)
-	- You can use a pendrive, but i highly advise **NOT** to because of the slow speeds.
+	- You can use a pendrive, but I highly advise **NOT** to because of the slow speeds.
 
 ## PS4 system
 Some configuration is necessary on the PS4's side before we load Linux.

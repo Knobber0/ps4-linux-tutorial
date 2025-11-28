@@ -1,11 +1,9 @@
-# Getting the warez
+# Acquiring the software
 
 > [!WARNING]
 > I'm sorry if some of the following links are sketchy, but the community is a divided mess unfortunately. Refer to the [Other Issues](issues.md#other-issues) section for a rant.
 ## Kernels
-Let's start with the kernels: they are very important as they have the software that controls all of the PS4's hardware. This is, by definition, Linux.
-
-This is the section for recommended kernels. There are both vanilla kernels and performance kernels. Ordered by newest to oldest, the top ones are the recommended ones.
+This section covers recommended kernels. There are both vanilla kernels and performance kernels. Ordered by newest to oldest, the top ones are the recommended ones.
 
 [Credits for all of these kernels](ending#credits).
 
@@ -59,10 +57,7 @@ There's another in-dev initramfs, if you want to check it out it's [here](https:
 Also, you may want to read [this post](https://ps4linux.com/forums/d/93-tutorial-for-building-a-custom-initramfs-research-development) on the PS4 Linux forums, I found it and thought was really interesting.
 
 ## Distros (that you ACTUALLY wanna use)
-Yes! Finally the time has come. Which one will you choose?
-Honestly there's a neptillion distros. Most however, are very outdated, especially the ones on the PS4Linux's website list.
-
-These distros are newer, supported by updates and recommended. CachyOS was used for this guide, but you can follow the same method of installation for all the other ones reported here.
+There's many distros, most however, are very outdated, especially the ones on the PS4Linux's website list. These distros are newer, supported by updates and recommended. CachyOS was used for this guide, but you can follow the same method of installation for all the other ones reported here.
 
 | Distro                                                                                           | Base    | Port credits                                                              | Info                                                                                |
 | ------------------------------------------------------------------------------------------------ | ------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -81,7 +76,3 @@ These distros are newer, supported by updates and recommended. CachyOS was used 
 >Want to add more distros? Make an issue and your wish shall be granted.
 >
 >Want to make your own? [Check this out!](/postinstallation/distro)
-
-## To the installation we go!
-
-You should go to the next step, where you'll finally complete your installation!
