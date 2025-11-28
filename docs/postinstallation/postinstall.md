@@ -126,7 +126,7 @@ And setting a new password.
 > [!CAUTION]
 > It's **ABSOLUTELY NOT** recommended to use the internal HDD as swap **ONLY** use this if your internal HDD has been replaced with a faster SSD. Disable it and move on otherwise.
 
-Swap is storage that you are taking from your drive and allocating as "extra RAM": it works by moving unused software over there if extra main memory needs to be reserved for another program or game. This means we can improve the memory situation a little bit.
+Swap is storage that you are taking from your drive and allocating as "extra RAM": it works by moving unused software over there if extra main memory needs to be reserved for another program or game. This means we can improve the memory situation a little bit. However i do recommend swap over zram because zram causes long and uneccesery boot times example being 1 user having boot time longer by about 2 minutes.
 
 We will be using a swap file instead of a swap partition, as it's easier to change in size.
 First of all, we need to remove any existing swap:
@@ -151,7 +151,7 @@ sudo nano /etc/fstab
 :::
 
 ::: details Enabling ZRAM (thanks Qba for mentioning [this](https://forum.endeavouros.com/t/enabling-zram-in-endeavouros/37746))
-ZRAM on the other hand, is a part of your memory that you are compressing and allocating as swap. A kernel that supports it is necessary.
+ZRAM on the other hand, is a part of your memory that you are compressing and allocating as swap. A kernel that supports it is necessary. Although not recommended because of long boot times.
 
 This means that we trade some CPU cycles for compressing and decompressing a part of your system memory. If it is enabled by default on Android you can guess how little performance impact there is.
 
