@@ -75,7 +75,7 @@ This page contains content on how to compile your own kernel.
 >- You can download the follow modded PKGBUILD file from this link [here](https://github.com/FlyingPhantom/ps4-linux-tutorial/blob/main/PS4%20Linux/PKGBUILD).
 
 
-## Step 4 - Recommended settings.
+## Step 3 - Recommended settings.
 
 - Config for linux-tkg.cfg will be provided [here](https://github.com/FlyingPhantom/ps4-linux-tutorial/blob/main/PS4%20Linux/linux-tkg.cfg). I will call this the recommended config because it has been tuned for the ps4 and minimizing compile time. If you wanna lower the compile times even more check out [modprobed-db](https://wiki.archlinux.org/title/Modprobed-db) on archwiki.
 

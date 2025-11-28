@@ -15,7 +15,7 @@
 | _lto_mode="thin"		 | Uses Thin LTO mode to optimize for performance.**(SHOULD NOT BE USED WITH LLVM BECAUSE IT CAN LEAD TO UNBOOTABLE KERNEL)**.											  |
 | _compileroptlevel="1"		 | Uses compiler to optimize for performance.																					  |
 | _tcp_cong_alg="bbr"		 | Uses a better network algorithm that could have better network stability or speed. ***Small Note: even if this does not change anything internet will still work properly***.				  |
-| _default_cpu_gov="ondemand"	 | Makes the default cpu governor "ondemand" meaning it uses more power when needed resulting in quieter experience.												  |
+| _default_cpu_gov="ondemand"	 | Makes the default cpu governor "ondemand" meaning it uses more power when needed resulting in quieter experience during lower workloads.												  |
 | _aggressive_ondemand="true"	 | Makes the "ondemand" governor more aggressive.																				  |
 
 # 2 - Proton optimizations
