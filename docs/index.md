@@ -10,7 +10,7 @@ hero:
     src: hero.png
   actions:
     - theme: brand
-      text: 🏁 Let's get it on!
+      text: 🏁 Let's start!
       link: /information
     - theme: alt
       text: 📹 YT Guide (Modded Warfare)
@@ -72,6 +72,3 @@ Another thing. We have two methods of installation:
 2. External Drive via USB
 
 But some consoles don't support internal drives. This will addressed further into the guide.
-
-## Little bonus
-[How it all started](https://www.youtube.com/watch?v=QMiubC6LdTA).

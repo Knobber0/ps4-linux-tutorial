@@ -131,10 +131,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/FlyingPhantom/ps4-linux-tutorial/' }
     ],
 
-    search: {
-      provider: 'local'
-    },
-
     footer: {
       message: 'Released under the <a href="https://github.com/FlyingPhantom/ps4-linux-tutorial/blob/main/LICENSE">MIT License</a>.',
       copyright: 'Copyright © 2025 <a href="https://github.com/FlyingPhantom">Yes</a>.'
