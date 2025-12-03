@@ -9,4 +9,4 @@ To build the repo, clone the repo, then inside said repo, run the commands you f
 
 ---
 
-This repo uses the MIT license, because I kinda need to give a license.
+This repo uses the MIT license, because I need to give a license.
