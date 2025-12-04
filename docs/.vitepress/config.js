@@ -63,7 +63,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '🔒 Persistent boot',
+        text: '🔒 Persistent boot - WIP',
         collapsed: true,
         items: [
           { text: 'Internal permanent install', link: '/persistent/internal' },
@@ -93,7 +93,8 @@ export default defineConfig({
           { text: '🔧 Compile your own kernel',           link: '/miscellaneous/kernel' },
           { text: '🎮 Emulation on PS4 Linux',            link: '/miscellaneous/emulation' },
           { text: '⚡ PS4 Linux Benchmarks',              link: '/miscellaneous/benchmark' },
-          { text: '🖥️ Mesa drivers & tweaks',             link: '/miscellaneous/mesa' }
+          { text: '🖥️ Mesa drivers & tweaks',             link: '/miscellaneous/mesa' },
+          { text: '📡 Exploit Host Setup',                link: '/miscellaneous/exploit-host' }
         ]
       },
       {
