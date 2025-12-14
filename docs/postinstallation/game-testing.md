@@ -11,11 +11,11 @@ There's multiple levels of stability:
 - Broken
 	- The game doesn't work at all
 - Low
-	- Major graphical glitches ruin the experience, or it just lags like crap
+	- Major graphical glitches ruin the experience, or it just lags heavily
 - Medium
 	- Some issues here and there, you can still see frequent glitches
 - High
-	- Works for the most part, only issues in specific place that don't really affect the majority of the game
+	- Works for the most part, with the only issues being in specific places that don’t really affect the majority of the game.
 - Perfect
 	- It works with no issues
 
