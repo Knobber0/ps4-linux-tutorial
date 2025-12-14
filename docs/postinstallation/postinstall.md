@@ -126,7 +126,7 @@ And setting a new password.
 > [!CAUTION]
 > It's **ABSOLUTELY NOT** recommended to use the internal HDD as swap **ONLY** use this if your internal HDD has been replaced with a faster SSD. Disable it and move on otherwise.
 
-Swap is storage that you are taking from your drive and allocating as "extra RAM": it works by moving unused software over there if extra main memory needs to be reserved for another program or game. This means we can improve the memory situation a little bit. However i do recommend swap over zram because zram causes long and uneccesery boot times example being 1 user having boot time longer by about 2 minutes.
+Swap is storage that you are taking from your drive and allocating as "extra RAM": it works by moving unused software over there if extra main memory needs to be reserved for another program or game. This means we can improve the memory situation a little bit. However, I do recommend swapping over from zram, because zram causes long and unnecessary boot times, with one example being a user whose boot time was about 2 minutes longer.
 
 We will be using a swap file instead of a swap partition, as it's easier to change in size.
 First of all, we need to remove any existing swap:
