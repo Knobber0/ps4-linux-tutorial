@@ -43,7 +43,7 @@ Uninstall the `mesa-git`, `libdrm`, and `xf86-video-amdgpu` packages, and instal
 To uninstall the mesa packages, use your package manager instructions. You will probably need to remove all the dependencies as well.
 
 > [!CAUTION]
-> Don't use MESA 22.
+> Don't use MESA 22, unless on Baikal.
 
 After that you need to add these packages to the ignore section so they can't be updated. On Arch based distros, change your pacman config, and add these packages to the ignore section:
 ```bash

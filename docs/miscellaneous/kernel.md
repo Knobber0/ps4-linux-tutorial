@@ -68,7 +68,7 @@ This page contains content on how to compile your own kernel.
 
 > **NOTE:Fixing the pkgbuild**
 
->- The linux-tkg project does not allow the option for kernel output to be compiled as bzImage, i have made a [issue](https://github.com/Frogging-Family/linux-tkg/issues/1162) but it hasn't been pushed or decided if it will be pushed. So for now you will need to use a modified PKGBUILD file.
+>- The linux-tkg project does not allow the option for kernel output to be compiled as bzImage, i made a pr request but it has been rejected so for now you will need to use a modified PKGBUILD file.
 
 >- This is only for arch because its the distro i use i dont know for other distros but you will have to modify ./install.sh script if you dont use arch.
 
@@ -88,7 +88,5 @@ This page contains content on how to compile your own kernel.
   
   ```
 
-- Now run the *makepkg -o* or *makepkg -s* command and follow the instructions of the linux-tkg next.
+- Now run the *makepkg -o* to check if everything is working fine then run *makepkg -s* command to and follow the instructions of the linux-tkg to build the kernel.
 
-
-# To be continued....

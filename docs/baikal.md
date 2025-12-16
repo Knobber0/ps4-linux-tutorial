@@ -12,4 +12,6 @@ Theres lots of problems to baikal systems while lack of being widespread to the 
 
 - Internal writing speeds are slow due to UFS encryption, one can however install internally.
 
+> [!TIP] 
 > List provided by uar on discord.
+
