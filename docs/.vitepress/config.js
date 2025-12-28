@@ -6,6 +6,7 @@ export default defineConfig({
   base: "/ps4-linux-tutorial/",
  
   head: [
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/ps4-linux-tutorial/favicon.png', sizes: '32x32' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['meta', { name: 'description', content: 'A step-by-step guide for running Linux on PS4' }],
